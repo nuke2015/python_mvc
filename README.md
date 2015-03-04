@@ -17,3 +17,4 @@ pip install -r requirements.txt
 需要配置mongo
 127.0.0.1:27017
 
+本机环境是win+python2.7.9
