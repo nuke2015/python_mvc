@@ -1,4 +1,7 @@
-Flask==0.10
+flask==0.10.1
 Flask-WTF==0.8.3
 Jinja2==2.7
 Flask-DebugToolbar==0.8.0
+flask-markdown
+pymongo==2.6.3
+gunicorn
